@@ -1,0 +1,11 @@
+##type of build triggers 
+
+1.Manual
+2.Trigger builds remotely 
+3.Build after other projects are build 
+4.Build periodically 
+*5.Poll scm
+*6.GitHub hook Trigger for GITScm Polling
+
+
+
